@@ -1,198 +1,73 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
-  avatar:
-    display: true
-    path: profile.png
+  name: Mukesh
+  title: FullStack Engineer
 
 contact:
-  location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
-  wechat:
-  whatsapp:
-  telegram:
-  github: github
-  gitlab:
-  bitbucket:
-  googlescholar:
-  researchgate:
-  linkedin:
-  medium:
-  twitter: twitter
-  stackoverflow:
-  quora:
-  goodreads:
-
-profile:
-  display: true
-  title: Profile
-  details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+  location: Dubai, UAE
+  email: mmukesh95@hotmail.com
+  github: https://github.com/silentninja/
 
 experiences:
   display: true
-  title: Experiences
+  title: Work Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Backend Software Engineer
+      time: 2021 - now
+      company: CCI
+      tag: Async Remote, Django, Postgres
+      location: Remote
       details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+        + Helped build Mathesar, a web application providing an intuitive interface to databases.
+        + Worked asynchronously with a globally distributed team.
+    - role: Technical Lead
+      time: 2016 - 2021
+      tag: Django, Angular, Product Management, Android SDK
+      company: Pickle Internet
+      location: Chennai, India
       details: |
-        Experience in this company:
-        + First
-        + Second
+        + Built a Graph based Gamified loyalty program system from scratch
+        + Worked closely with the marketing team to build Customer-facing Data Charts using cubejs and Metabase that lead to increase in 50% of the revenue.
+        + Worked closely with the clients to release public API to connect with POS and other apps.
+        + Handled the full tech stack and business side of things of an experimental project Swazzen that bought in 20+ clients.
+    - role: Software Engineer
+      time: 2016 - 2017
+      company: Synergy Maritime
+      tag: .NET
+      location: Chennai, India
+      details: |
+        + CQRS + Event sourcing system to aggregate data that decreased load on the database and had massive performance improvement.
+        + Help build a priority-based spare part ordering system using a sequential convey to synchronize with offline data.
+        + Helped internal teams to move to Specflow based automated testing that decreased the feedback loop
+    - role: Software Engineer
+      time: 2016 - 2017
+      tag: Remote Freelance, Flask, Celery, MongoDB
+      company: Srvs Co
+      location: US
+      details: |
+        + Helped build a web scrapers using scrapy and a flask based UI for visualizing the scraped data.
+    - role: Software Engineer
+      time: 2015 - 2016
+      tag: PowerBI, Pandas, Scikit, Python
+      company: Bridgei2i Analytics Solution
+      location: Bangalore, India
+      details: |
+        + Worked closely with clients and helped them build predictive models using Pandas and scikit learn.
+        + Built pipelines to clean data and build staging tables that were consumed by PowerBI.
+        + Built interactive charts using matplotlib and IPython notebook based on parsed data from customer reviews using gensim
+    - role: Co-Founder & Technical Lead
+      time: 2014 - 2015
+      tag: Django, Devops, API, AngularJS
+      company: Mailage
+      location: Chennai, India
+      details: |
+        + Built a workflow automation platform that connected different apps from scratch
 
-        ...
-
-projects:
+activities:
   display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
+  title: Social Activities
 
   items:
-    - name: Foo
+    - name: Volunteer at Vanagam - Nammalvar Ecological Foundation
       link: https://www.google.com
       details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
-
-skills:
-  display: true
-  title: Skills
-  details: |
-    Here is my skills:
-    + First
-    + Second
-
-    ...
-
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
-
-education:
-  display: true
-  title: Education
-  items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-certificates:
-  display: true
-  title: Certificates
-  items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
-publications:
-  display: true
-  title: Publications
-  intro: |
-    This is all the books I wrote.
-
-  items:
-    - title: Foo in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: https://www.google.com
-    - title: The Art of Bar
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
-
-patents:
-  display: true
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
-
-languages:
-  display: true
-  title: Languages
-  items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-
-interests:
-  display: true
-  title: Interests
-  items:
-    - item: Reading
-      link:
-    - item: Cooking
-      link:
-
-evaluation:
-  display: true
-  title: Self-evaluation
-  details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
-
-footer:
-  display: true
-
-close: >
-  Sorry, my resume has been hidden.
+        Help in promoting organic farming and introduce technological tools to assist with Farming.
