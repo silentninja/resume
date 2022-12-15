@@ -62,12 +62,18 @@ experiences:
       details: |
         + Built a workflow automation platform that connected different apps from scratch
 
-interests:
+certificates:
   display: true
-  title: Social Activities
-
+  title: Certificates
   items:
     - name: Volunteer at Vanagam - Nammalvar Ecological Foundation
-      link: https://www.google.com
       details: |
         Help in promoting organic farming and introduce technological tools to assist with Farming.
+interests:
+  display: true
+  title: Interests
+  items:
+    - item: Trekking
+    - item: PC gaming
+    - item: Origami
+    - item: Manga
