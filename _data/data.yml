@@ -1,6 +1,6 @@
 basic:
   name: Mukesh
-  title: FullStack Engineer
+  title: Senior Software Engineer
 
 contact:
   location: Dubai, UAE
@@ -11,14 +11,20 @@ experiences:
   display: true
   title: Work Experiences
   items:
-    - role: Backend Software Engineer
-      time: 2021 - now
-      company: CCI
-      tag: Async Remote, Django, Postgres
+    - company: Mathesar
+      link: 'https://mathesar.org/'
+      role: Senior Software Engineer
+      time: 2021 - 2023
+      tag: Django, Postgres, Docker, GCP, Svelte
       location: Remote
       details: |
-        + Helped build Mathesar, a web application providing an intuitive interface to databases.
-        + Worked asynchronously with a globally distributed team.
+        + Part of the core team building Mathesar, an open source project providing an intuitive interface to databases.
+          + Built back end features and implemented REST API's in Django
+          + Worked on improving the installation experience of the Mathesar application
+        + Worked asynchronously with a globally distributed team of 8 engineers.
+        + [Mentored a Google Summer of Code Project](https://wiki.mathesar.org/community/gsoc/past/2022/dependents-graph/)
+        + Advised on architectural decisions and code standards
+        + Advised on product direction and community building
     - role: Technical Lead
       time: 2016 - 2021
       tag: Django, Angular, Product Management, Android SDK
@@ -35,7 +41,7 @@ experiences:
       tag: .NET
       location: Chennai, India
       details: |
-        + CQRS + Event sourcing system to aggregate data that decreased load on the database and had massive performance improvement.
+        + CQRS + Event sourcing system to aggregate data which decreased load on the database and had a massive performance improvement.
         + Help build a priority-based spare part ordering system using a sequential convey to synchronize with offline data.
         + Helped internal teams to move to Specflow based automated testing that decreased the feedback loop
     - role: Software Engineer
