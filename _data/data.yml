@@ -1,99 +1,80 @@
 basic:
   name: Mukesh
-  title: Senior Software Engineer
-
+  title: Senior Software Engineer with more than 7+ years of experience
 contact:
   location: Dubai, UAE
   email: mmukesh95@hotmail.com
   github: https://github.com/silentninja/
-
-experiences:
-  display: true
-  title: Work Experiences
+experience:
+  show: true
+  title: Work Experience
   items:
     - company: Mathesar
       link: 'https://mathesar.org/'
       role: Senior Software Engineer
-      time: 2021 - 2023
-      tag: Django, Postgres, Docker, GCP, Svelte
+      date: 2021 - 2023
+      tags: Django, Postgres, Docker, GCP, Ansible, Svelte
       location: Remote
-      details: |
-        + Part of the core team building Mathesar, an open source project providing an intuitive interface to databases.
-          + Built back end features and implemented REST API's in Django
-          + Worked on improving the installation experience of the Mathesar application
-        + Worked asynchronously with a globally distributed team of 8 engineers.
-        + [Mentored a Google Summer of Code Project](https://wiki.mathesar.org/community/gsoc/past/2022/dependents-graph/)
-        + Advised on architectural decisions and code standards
-        + Advised on product direction and community building
+      description: |
+        + Part of the core team building Mathesar, an open source project providing an intuitive interface for databases.
+          + Built back end features in PL/pgSQL and implemented REST API's in Django
+          + Played a key role in implementing a streamlined installation process for Mathesar, reducing user installation time by 60%.
+        + Successfully collaborated with a geographically dispersed team of 8 engineers to achieve project milestones
+        + Mentored a Google Summer of Code student who developed a [Database objects dependency graph feature](https://wiki.mathesar.org/community/gsoc/past/2022/dependents-graph/) that is now a core component of Mathesar.
+        + Provided technical leadership by advising on architectural decisions, code standards, product direction, and community building strategies for Mathesar.
     - role: Technical Lead
-      time: 2016 - 2021
-      tag: Django, Angular, Product Management, Android SDK
+      date: 2016 - 2021
+      tags: Django, Postgres, Angular, AWS Cloudformation, PostGIS, Product Management, Android SDK
       company: Pickle Internet
       location: Chennai, India
-      details: |
-        + Built a Graph based Gamified loyalty program system from scratch
-        + Worked closely with the marketing team to build Customer-facing Data Charts using cubejs and Metabase that lead to increase in 50% of the revenue.
-        + Worked closely with the clients to release public API to connect with POS and other apps.
-        + Handled the full tech stack and business side of things of an experimental project Swazzen that bought in 20+ clients.
+      description: |
+        + Helped build Graph based Gamified loyalty program system from scratch
+        + Worked closely with the marketing team to build Data Charts using cubejs and Metabase to generate reports from the loyalty program.
+        + Facilitated the release of a public API for POS and other app integrations, streamlining client onboarding and data exchange.
+        + Spearheaded the technical and business development of Swazzen, an experimental project that attracted 20+ clients.
     - role: Software Engineer
-      time: 2016 - 2017
+      date: 2016 - 2017
       company: Synergy Maritime
-      tag: .NET
+      tags: .NET
       location: Chennai, India
-      details: |
-        + CQRS + Event sourcing system to aggregate data which decreased load on the database and had a massive performance improvement.
-        + Help build a priority-based spare part ordering system using a sequential convey to synchronize with offline data.
-        + Helped internal teams to move to Specflow based automated testing that decreased the feedback loop
+      description: |
+        + Helped build maintanence system for Tanker ships
+        + Proposed and built CQRS based Event sourcing system for the data aggeration tool which decreased load on the database and had a massive performance improvement.
+        + Designed and built a priority-based spare part ordering system with a sequential conveyor, enabling efficient inventory management.
+        + Championed the adoption of Specflow for automated testing leading to a decreased the feedback loop
     - role: Software Engineer
-      time: 2016 - 2017
-      tag: Remote Freelance, Flask, Celery, MongoDB
+      date: 2016 - 2017
+      tags: Remote Freelance, Flask, Celery, MongoDB, Scrapy
       company: Srvs Co
-      location: US
-      details: |
+      location: Remote, US
+      description: |
         + Helped build a web scrapers using scrapy and a flask based UI for visualizing the scraped data.
     - role: Software Engineer
-      time: 2015 - 2016
-      tag: PowerBI, Pandas, Scikit, Python
-      company: Bridgei2i Analytics Solution
+      date: 2015 - 2016
+      tags: PowerBI, Pandas, Scikit, Python
+      company: Bridgei2i Analytics Solution (Accquired by Accenture)
       location: Bangalore, India
-      details: |
+      description: |
         + Worked closely with clients and helped them build predictive models using Pandas and scikit learn.
         + Built pipelines to clean data and build staging tables that were consumed by PowerBI.
         + Built interactive charts using matplotlib and IPython notebook based on parsed data from customer reviews using gensim
     - role: Co-Founder & Technical Lead
-      time: 2014 - 2015
-      tag: Django, Devops, API, AngularJS
+      date: 2014 - 2015
+      tags: Django, Devops, API, AngularJS
       company: Mailage
       location: Chennai, India
-      details: |
+      description: |
         + Built a workflow automation platform that connected different apps from scratch
-
-certificates:
-  display: true
+certificate:
+  show: true
   title: Certificates
-  description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
-
   items:
     - name: Volunteer at Vanagam - Nammalvar Ecological Foundation
-      details: |
+      description: |
         Help in promoting organic farming and introduce technological tools to assist with Farming.
-interests:
-  display: true
+interest:
+  show: true
   title: Interests
-  description: |
-    The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
-
-    Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
-
-    However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
-
   items:
     - item: Trekking
     - item: PC gaming
