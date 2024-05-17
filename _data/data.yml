@@ -22,7 +22,7 @@ experience:
         + Successfully collaborated with a geographically dispersed team of 8 engineers to achieve project milestones
         + Mentored a Google Summer of Code student who developed a [Database objects dependency graph feature](https://wiki.mathesar.org/community/gsoc/past/2022/dependents-graph/) that is now a core component of Mathesar.
         + Provided technical leadership by advising on architectural decisions, code standards, product direction, and community building strategies for Mathesar.
-     - role: Freelance Consultant
+    - role: Freelance Consultant
       date: 2019 - 2020
       tags: Streamlit, Metabase
       company: Pickle Internet
