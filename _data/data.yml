@@ -1,6 +1,6 @@
 basic:
   name: Mukesh
-  title: Senior Software Engineer with more than 7+ years of experience
+  title: Senior Fullstack Software Engineer
 contact:
   location: Dubai, UAE
   email: mmukesh95@hotmail.com
@@ -22,16 +22,30 @@ experience:
         + Successfully collaborated with a geographically dispersed team of 8 engineers to achieve project milestones
         + Mentored a Google Summer of Code student who developed a [Database objects dependency graph feature](https://wiki.mathesar.org/community/gsoc/past/2022/dependents-graph/) that is now a core component of Mathesar.
         + Provided technical leadership by advising on architectural decisions, code standards, product direction, and community building strategies for Mathesar.
+     - role: Freelance Consultant
+      date: 2019 - 2020
+      tags: Streamlit, Metabase
+      company: Pickle Internet
+      location: Chennai, India
+      description: |
+        + Facilitated a smooth client transition by migrating their data to Metabase due to the company's planned shutdown. This ensured clients retained access to their critical information in the new platform.
     - role: Technical Lead
-      date: 2016 - 2021
-      tags: Django, Postgres, Angular, AWS Cloudformation, PostGIS, Product Management, Android SDK
+      date: 2017 - 2019
+      tags: Django, Postgres, Angular, AWS Cloudformation, PostGIS, Cubejs, Product Management
       company: Pickle Internet
       location: Chennai, India
       description: |
         + Helped build Graph based Gamified loyalty program system from scratch
-        + Worked closely with the marketing team to build Data Charts using cubejs and Metabase to generate reports from the loyalty program.
+        + Worked closely with the marketing team to build Data Charts to generate reports from the loyalty program.
         + Facilitated the release of a public API for POS and other app integrations, streamlining client onboarding and data exchange.
         + Spearheaded the technical and business development of Swazzen, an experimental project that attracted 20+ clients.
+    - role: Freelance Android Consultant
+      date: 2016 - 2017
+      tags: Android SDK
+      company: Pickle Internet
+      location: Chennai, India
+      description: |
+        + Helped build hyperlocal restaurant aggregation platform from scratch
     - role: Software Engineer
       date: 2016 - 2017
       company: Synergy Maritime
