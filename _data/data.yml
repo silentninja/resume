@@ -22,7 +22,7 @@ experience:
         + Successfully collaborated with a geographically dispersed team of 8 engineers to achieve project milestones
         + Mentored a Google Summer of Code student who developed a [Database objects dependency graph feature](https://wiki.mathesar.org/community/gsoc/past/2022/dependents-graph/) that is now a core component of Mathesar.
         + Provided technical leadership by advising on architectural decisions, code standards, product direction, and community building strategies for Mathesar.
-    - role: Freelance Consultant
+    - role: Freelance Technical Consultant
       date: 2019 - 2020
       tags: Streamlit, Metabase
       company: Pickle Internet
@@ -56,9 +56,9 @@ experience:
         + Proposed and built CQRS based Event sourcing system for the data aggeration tool which decreased load on the database and had a massive performance improvement.
         + Designed and built a priority-based spare part ordering system with a sequential conveyor, enabling efficient inventory management.
         + Championed the adoption of Specflow for automated testing leading to a decreased the feedback loop
-    - role: Software Engineer
+    - role: Freelance Software Engineer
       date: 2016 - 2017
-      tags: Remote Freelance, Flask, Celery, MongoDB, Scrapy
+      tags: Remote Async, Flask, Celery, MongoDB, Scrapy
       company: Srvs Co
       location: Remote, US
       description: |
