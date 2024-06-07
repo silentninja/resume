@@ -14,7 +14,7 @@ experience:
       role: Senior Software Engineer
       date: 2021 - 2023
       tags: Django, Postgres, Docker, GCP, Ansible, Svelte
-      location: Remote
+      location: Remote, US
       description: |
         + Part of the core team building Mathesar, an open source project providing an intuitive interface for databases.
           + Built back end features in PL/pgSQL and implemented REST API's in Django
@@ -22,6 +22,11 @@ experience:
         + Successfully collaborated with a geographically dispersed team of 8 engineers to achieve project milestones
         + Mentored a Google Summer of Code student who developed a [Database objects dependency graph feature](https://wiki.mathesar.org/community/gsoc/past/2022/dependents-graph/) that is now a core component of Mathesar.
         + Provided technical leadership by advising on architectural decisions, code standards, product direction, and community building strategies for Mathesar.
+    - company: Chiba Institute of Technology
+      link: 'https://www.henkaku.center/en/people/'
+      role: Visiting Researcher
+      date: 2022 - now
+      location: Remote, Japan
     - role: Freelance Technical Consultant
       date: 2019 - 2020
       tags: Streamlit, Metabase
@@ -53,6 +58,7 @@ experience:
       location: Chennai, India
       description: |
         + Helped build maintanence system for Tanker ships
+        + Maintained the performance and stability of a large-scale database (around 100M+ records) experiencing high concurrency and data volume.
         + Proposed and built CQRS based Event sourcing system for the data aggeration tool which decreased load on the database and had a massive performance improvement.
         + Designed and built a priority-based spare part ordering system with a sequential conveyor, enabling efficient inventory management.
         + Championed the adoption of Specflow for automated testing leading to a decreased the feedback loop
