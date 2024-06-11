@@ -36,7 +36,7 @@ experience:
         + Facilitated a smooth client transition by migrating their data to Metabase due to the company's planned shutdown. This ensured clients retained access to their critical information in the new platform.
     - role: Technical Lead
       date: 2017 - 2019
-      tags: Django, Postgres, Angular, AWS Cloudformation, PostGIS, Cubejs, Product Management
+      tags: Django, AWS SQS + Lambda, Postgres, Angular, AWS Cloudformation, PostGIS, Cubejs, Product Management
       company: Pickle Internet
       location: Chennai, India
       description: |
@@ -54,7 +54,7 @@ experience:
     - role: Software Engineer
       date: 2016 - 2017
       company: Synergy Maritime
-      tags: .NET
+      tags: .NET, SpecFlow, 
       location: Chennai, India
       description: |
         + Helped build maintanence system for Tanker ships
@@ -80,7 +80,7 @@ experience:
         + Built interactive charts using matplotlib and IPython notebook based on parsed data from customer reviews using gensim
     - role: Co-Founder & Technical Lead
       date: 2014 - 2015
-      tags: Django, Devops, API, AngularJS
+      tags: Django, Devops, API, AngularJS, Celery
       company: Mailage
       location: Chennai, India
       description: |
