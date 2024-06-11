@@ -54,7 +54,7 @@ experience:
     - role: Software Engineer
       date: 2016 - 2017
       company: Synergy Maritime
-      tags: .NET, SpecFlow, 
+      tags: .NET, SpecFlow, MySQL
       location: Chennai, India
       description: |
         + Helped build maintanence system for Tanker ships
