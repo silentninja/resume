@@ -15,7 +15,7 @@ experience:
       date: 2022 - now
       location: Remote, Japan
       description: |
-        + Working on Algorithms for efficient denormalisation.
+        + Working on Algorithms for efficient normalisation at the database level.
     - company: Mathesar
       link: 'https://mathesar.org/'
       role: Senior Software Engineer
