@@ -14,6 +14,8 @@ experience:
       role: Visiting Researcher
       date: 2022 - now
       location: Remote, Japan
+      description: |
+        + Working on Algorithms for efficient denormalisation.
     - company: Mathesar
       link: 'https://mathesar.org/'
       role: Senior Software Engineer
