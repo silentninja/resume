@@ -20,7 +20,7 @@ experience:
       link: 'https://mathesar.org/'
       role: Senior Software Engineer
       date: 2021 - 2023
-      tags: Django, Postgres, Docker, GCP, Ansible, Svelte
+      tags: Django, Postgres, Docker, GCP, Ansible, Svelte, Kubernetes
       location: Remote, US
       description: |
         + Part of the core team building Mathesar, an open source project providing an intuitive interface for databases.
@@ -38,7 +38,7 @@ experience:
         + Facilitated a smooth client transition by migrating their data to Metabase due to the company's planned shutdown. This ensured clients retained access to their critical information in the new platform.
     - role: Technical Lead
       date: 2017 - 2019
-      tags: Django, AWS SQS + Lambda, Postgres, Angular, AWS Cloudformation, PostGIS, Cubejs, Product Management
+      tags: Django, Ruby on Rails, AWS SQS + Lambda, Postgres, Angular, AWS Cloudformation, PostGIS, Cubejs, Product Management
       company: Pickle Internet
       location: Chennai, India
       description: |
@@ -48,7 +48,7 @@ experience:
         + Spearheaded the technical and business development of Swazzen, an experimental project that attracted 20+ clients.
     - role: Freelance Android Consultant
       date: 2016 - 2017
-      tags: Android SDK, ElasticSearch
+      tags: Android SDK, ElasticSearch, Ruby on Rails
       company: Pickle Internet
       location: Chennai, India
       description: |
