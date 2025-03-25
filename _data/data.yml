@@ -90,13 +90,6 @@ experience:
       location: Chennai, India
       description: |
         + Built a workflow automation platform that connected different apps from scratch
-certificate:
-  show: true
-  title: Certificates
-  items:
-    - name: Volunteer at Vanagam - Nammalvar Ecological Foundation
-      description: |
-        Help in promoting organic farming and introduce technological tools to assist with Farming.
 interest:
   show: true
   title: Open source contributions
@@ -107,3 +100,10 @@ interest:
       link: https://github.com/PostHog/posthog/
     - item: Lightdash
       link: https://github.com/lightdash/lightdash
+certificate:
+  show: true
+  title: Certificates
+  items:
+    - name: Volunteer at Vanagam - Nammalvar Ecological Foundation
+      description: |
+        Help in promoting organic farming and introduce technological tools to assist with Farming.
