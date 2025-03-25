@@ -20,7 +20,7 @@ experience:
       link: 'https://mathesar.org/'
       role: Senior Software Engineer
       date: 2021 - 2023
-      tags: Django, Postgres, Docker, GCP, Ansible, Svelte, Kubernetes
+      tags: Django, Postgres, Docker, GCP, Ansible, Svelte, Kubernetes, Async Communication skills
       location: Remote, US
       description: |
         + Part of the core team building Mathesar, an open source project providing an intuitive interface for databases.
@@ -38,17 +38,19 @@ experience:
         + Facilitated a smooth client transition by migrating their data to Metabase due to the company's planned shutdown. This ensured clients retained access to their critical information in the new platform.
     - role: Technical Lead
       date: 2017 - 2019
-      tags: Django, Ruby on Rails, AWS SQS + Lambda, Postgres, Angular, AWS Cloudformation, Terraform, PostGIS, Cubejs, Product Management
+      tags: Django, Ruby on Rails, AWS SQS + Lambda, Postgres, Angular, Pyspark, AWS, Terraform, PostGIS, Cubejs, Product Management
       company: Pickle Internet
       location: Chennai, India
       description: |
         + Helped build Graph based Gamified loyalty program system from scratch
+        + Hired and trained a team of 4 engineers.
         + Worked closely with the marketing team to build Data Charts to generate reports from the loyalty program.
         + Facilitated the release of a public API for POS and other app integrations, streamlining client onboarding and data exchange.
         + Spearheaded the technical and business development of Swazzen, an experimental project that attracted 20+ clients.
+        + Built a data pipeline to process and analyse the loyalty program data to suggest marketing campaigns to clients.
     - role: Freelance Android Consultant
       date: 2016 - 2017
-      tags: Android SDK, ElasticSearch, Ruby on Rails, Docker
+      tags: Android SDK, Dagger, ElasticSearch, Ruby on Rails, Docker
       company: Pickle Internet
       location: Chennai, India
       description: |
@@ -96,9 +98,9 @@ certificate:
         Help in promoting organic farming and introduce technological tools to assist with Farming.
 interest:
   show: true
-  title: Interests
+  title: Open source contributions
   items:
-    - item: Trekking
-    - item: PC gaming
-    - item: Origami
-    - item: Manga
+    - item: Common crawl
+      link: https://github.com/commoncrawl/commoncrawl
+    - item: PostHog
+      link: https://github.com/commoncrawl/posthog
