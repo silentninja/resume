@@ -101,6 +101,8 @@ interest:
   title: Open source contributions
   items:
     - item: Common crawl
-      link: https://github.com/commoncrawl/commoncrawl
+      link: https://github.com/commoncrawl/
     - item: PostHog
-      link: https://github.com/commoncrawl/posthog
+      link: https://github.com/PostHog/posthog/
+    - item: Lightdash
+      link: https://github.com/lightdash/lightdash
