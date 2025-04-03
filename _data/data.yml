@@ -20,7 +20,7 @@ experience:
       link: 'https://mathesar.org/'
       role: Senior Software Engineer
       date: 2021 - 2024
-      tags: Django, Postgres, Docker, GCP, Ansible, Svelte, Kubernetes, Async Communication skills, PL/pgSQL
+      tags: Django, Postgres, PL/pgSQL, Docker, GCP, Ansible, Svelte, Kubernetes, Async Communication skills
       location: Remote, US
       description: |
         + Part of the core team building Mathesar, an open source project providing an intuitive interface for databases.
@@ -74,7 +74,7 @@ experience:
         + Helped build a web scrapers using scrapy and a flask based UI for visualizing the scraped data.
     - role: Software Engineer I
       date: 2016 - 2017
-      tags: Python
+      tags: Python, Java
       company: Amazon
       location: Chennai, India
       description: |
