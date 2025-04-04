@@ -49,22 +49,17 @@ experience:
         + Facilitated the release of a public API for POS and other app integrations, streamlining client onboarding and data exchange.
         + Spearheaded the technical and business development of Swazzen, an experimental project that attracted 20+ clients.
         + Built a data pipeline to process and analyse the loyalty program data to suggest marketing campaigns to clients.
-    - role: Contract Software Engineer
-      date: 2017 - 2018
-      tags: PowerBI, Pandas, Scikit, Python, Gensim
-      company: Bridgei2i Analytics Solution (Accquired by Accenture)
-      location: Bangalore, India
-      description: |
-        + Worked closely with clients and helped them build predictive models using Pandas and scikit learn.
-        + Built pipelines to clean data and build staging tables that were consumed by PowerBI.
-        + Built interactive charts using matplotlib and IPython notebook based on parsed data from customer reviews using gensim
-    - role: Freelance Android Consultant
+    - role: Software Engineer
       date: 2016 - 2017
-      tags: Android SDK, Dagger, ElasticSearch, Ruby on Rails, Docker, Ansible
-      company: Pickle Internet
+      company: Synergy Maritime
+      tags: .NET, SpecFlow, MySQL, Ansible
       location: Chennai, India
       description: |
-        + Helped build hyperlocal restaurant aggregation platform from scratch
+        + Helped build maintanence system for Tanker ships
+        + Maintained the performance and stability of a large-scale database (around 100M+ records) experiencing high concurrency and data volume.
+        + Proposed and built CQRS based Event sourcing system for the data aggeration tool which decreased load on the database and had a massive performance improvement.
+        + Designed and built a priority-based spare part ordering system with a sequential conveyor, enabling efficient inventory management.
+        + Championed the adoption of Specflow for automated testing leading to a decreased the feedback loop
     - role: Freelance Software Engineer
       date: 2016 - 2017
       tags: Remote Async, Flask, Celery, MongoDB, Scrapy
@@ -72,15 +67,15 @@ experience:
       location: Remote, US
       description: |
         + Helped build a web scrapers using scrapy and a flask based UI for visualizing the scraped data.
-    - role: Software Engineer I
-      date: 2016 - 2017
-      tags: Python, Java
-      company: Amazon
-      location: Chennai, India
+    - role: Software Engineer
+      date: 2015 - 2016
+      tags: PowerBI, Pandas, Scikit, Python, Gensim
+      company: Bridgei2i Analytics Solution (Accquired by Accenture)
+      location: Bangalore, India
       description: |
-        + Worked on deploying the distributed systems for the Amazon cart system.
-        + Recovered from a major outage that affected the one click checkout feature.
-        + Optimise database queries which led to a 20% faster add to cart experience.
+        + Worked closely with clients and helped them build predictive models using Pandas and scikit learn.
+        + Built pipelines to clean data and build staging tables that were consumed by PowerBI.
+        + Built interactive charts using matplotlib and IPython notebook based on parsed data from customer reviews using gensim
     - role: Co-Founder & Technical Lead
       date: 2014 - 2015
       tags: Django, Devops, API, AngularJS, Celery, Ansible
