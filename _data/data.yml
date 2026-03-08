@@ -9,15 +9,26 @@ experience:
   show: true
   title: Work Experience
   items:
+    - company: Genledger
+      role: Freelancer and In-House consultant
+      date: 2024 - now
+      location: Remote
+      description: |
+        + Built Advanced Formula Data Actions in Value Driver Trees to automate complex year-over-year cost allocations and rolling forecasts, allowing the client to simulate "Supply Chain Shock" scenarios like raw material price changes and see the budget impact.
+        + Implemented various statitical models for driver based planning and to to predict weekly guest count based on the correlated historical foot traffic and event data scraped from various sources.
+        + Setup the architecture and helped convert legacy Z-Programs to custom BPA workflows. 
+        + Setup by stories and reports based on data received from S4 Hana, concur.
+        + Create custom reports using concur API
+        + Automate workflows and integrate externa systems with S4 hana and SAC APIs
     - company: Chiba Institute of Technology
       link: 'https://www.henkaku.center/en/people/'
       role: Visiting Researcher
       date: 2022 - now
       location: Remote, Japan
-    - company: Mathesar
+    - company: Center of Complex Interventions, Mathesar Project
       link: 'https://mathesar.org/'
       role: Senior Software Engineer
-      date: 2021 - 2023
+      date: 2021 - 2024
       tags: Django, Postgres, Docker, GCP, Ansible, Svelte
       location: Remote, US
       description: |
