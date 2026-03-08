@@ -9,8 +9,9 @@ experience:
   show: true
   title: Work Experience
   items:
-      - company: Genledger
-      role: Freelancer and In-House consultant
+    - company: Genledger AI
+      link: https://genledger.ai/
+      role: In-House SAP consultant
       date: 2024 - now
       location: Remote
       description: |
