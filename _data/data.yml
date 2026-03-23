@@ -10,9 +10,10 @@ experience:
   title: Work Experience
   items:
     - company: Genledger
-      role: Freelancer and In-House consultant
+      role: In-House SAP consultant and Software Engineer
       date: 2024 - now
       location: Remote
+      tags: SAP Analytics Cloud, Concur, SAP BPA, Python, FastAPI, Pydantic AI
       description: |
         + Built Advanced Formula Data Actions in Value Driver Trees to automate complex year-over-year cost allocations and rolling forecasts, allowing the client to simulate "Supply Chain Shock" scenarios like raw material price changes and see the budget impact.
         + Implemented various statitical models for driver based planning and to to predict weekly guest count based on the correlated historical foot traffic and event data scraped from various sources.
@@ -20,6 +21,7 @@ experience:
         + Setup by stories and reports based on data received from S4 Hana, concur.
         + Create custom reports using concur API
         + Automate workflows and integrate externa systems with S4 hana and SAC APIs
+        + Orchestrate agents to retreive related financial data and convert them into actionable insights and reports for the client.      
     - company: Chiba Institute of Technology
       link: 'https://www.henkaku.center/en/people/'
       role: Visiting Researcher
@@ -43,18 +45,21 @@ experience:
         + Provided technical leadership by advising on architectural decisions, code standards, product direction, and community building strategies for Mathesar.
     - role: Freelance Technical Consultant
       date: 2019 - 2020
-      tags: Streamlit, Metabase, Terraform, Kubernetes
+      tags: Streamlit, Metabase, Clojure, Terraform, Kubernetes
       company: Pickle Internet
       location: Chennai, India
       description: |
         + Facilitated a smooth client transition by migrating their data to Metabase due to the company's planned shutdown. This ensured clients retained access to their critical information in the new platform.
+        + Built a Streamlit based tool to help clients generate custom reports and charts based on the data in Metabase.
+        + Provided technical consultancy to clients on how to use Metabase and Streamlit to generate reports and charts based on their data.
     - role: Technical Lead
       date: 2017 - 2019
-      tags: Django, Ruby on Rails, AWS SQS + Lambda, Postgres, Angular, Pyspark + Redshift, AWS, Terraform, PostGIS, Cubejs, Product Management
+      tags: Django, Ruby on Rails, AWS SQS + Lambda, Postgres, Angular 2, Pyspark + Redshift, AWS, Terraform, PostGIS, Cubejs, Product Management
       company: Pickle Internet
       location: Chennai, India
       description: |
-        + Helped build Graph based Gamified loyalty program system from scratch
+        + Helped build Graph based Gamified loyalty program system from scratch.
+        + Moved legacy Ruby on Rails to Django.
         + Hired and trained a team of 4 engineers.
         + Worked closely with the marketing team to build Data Charts to generate reports from the loyalty program.
         + Facilitated the release of a public API for POS and other app integrations, streamlining client onboarding and data exchange.
@@ -63,7 +68,7 @@ experience:
     - role: Software Engineer
       date: 2016 - 2017
       company: Synergy Maritime
-      tags: .NET, SpecFlow, MySQL, Ansible
+      tags: ASP.NET, C#, SpecFlow, MySQL, Ansible
       location: Chennai, India
       description: |
         + Helped build maintanence system for Tanker ships
@@ -78,9 +83,9 @@ experience:
       location: Remote, US
       description: |
         + Helped build a web scrapers using scrapy and a flask based UI for visualizing the scraped data.
-    - role: Software Engineer
+    - role: Data Engineer
       date: 2015 - 2016
-      tags: PowerBI, Pandas, Scikit, Python, Gensim
+      tags: PowerBI, Pandas, Scikit, Python, Gensim, Java Spring 4, Hibernate, AngularJS
       company: Bridgei2i Analytics Solution (Accquired by Accenture)
       location: Bangalore, India
       description: |
@@ -94,6 +99,14 @@ experience:
       location: Chennai, India
       description: |
         + Built a workflow automation platform that connected different apps from scratch
+        + Created a hardware prototype based on ATMega328P to trigger voice based workflows
+        + Built a SVM based email classification system to classify emails into different categories and trigger workflows based on the category.
+    - role: Freelance Software Engineer
+      date: 2014 - 2015
+      tags: Laravel, PHP, MySQL, Phonegap
+      location: Chennai, India
+      description: |     
+        + Built a mobile app to help users learn foreign languages using phonegap and a laravel based backend to manage the content.
 interest:
   show: true
   title: Open source contributions
