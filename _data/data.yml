@@ -9,19 +9,19 @@ experience:
   show: true
   title: Work Experience
   items:
-    - company: Genledger
+    - company: Genledger AI
       role: In-House SAP consultant and Software Engineer
       date: 2024 - now
       location: Remote
       tags: SAP Analytics Cloud, Concur, SAP BPA, Python, FastAPI, Pydantic AI
       description: |
+        + Orchestrate AI agents to retrieve related financial data and convert them into actionable insights and reports for the client.      
         + Built Advanced Formula Data Actions in Value Driver Trees to automate complex year-over-year cost allocations and rolling forecasts, allowing the client to simulate "Supply Chain Shock" scenarios like raw material price changes and see the budget impact.
         + Implemented various statitical models for driver based planning and to to predict weekly guest count based on the correlated historical foot traffic and event data scraped from various sources.
         + Setup the architecture and helped convert legacy Z-Programs to custom BPA workflows. 
         + Setup by stories and reports based on data received from S4 Hana, concur.
-        + Create custom reports using concur API
-        + Automate workflows and integrate externa systems with S4 hana and SAC APIs
-        + Orchestrate agents to retreive related financial data and convert them into actionable insights and reports for the client.      
+        + Create custom reports using concur API.
+        + Automate workflows and integrate external systems with S4 hana and SAC APIs.
     - company: Chiba Institute of Technology
       link: 'https://www.henkaku.center/en/people/'
       role: Visiting Researcher
