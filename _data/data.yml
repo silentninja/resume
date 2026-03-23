@@ -22,7 +22,8 @@ experience:
         + Setup by stories and reports based on data received from S4 Hana, concur.
         + Create custom reports using concur API.
         + Automate workflows and integrate external systems with S4 hana and SAC APIs.
-    - role: Freelancing
+    - role: Software Engineer
+      company: Freelancing
       date: 2024 - now
       location: Remote
       tags: ASP.NET core, Java Spring Boot
