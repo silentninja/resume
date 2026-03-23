@@ -22,6 +22,12 @@ experience:
         + Setup by stories and reports based on data received from S4 Hana, concur.
         + Create custom reports using concur API.
         + Automate workflows and integrate external systems with S4 hana and SAC APIs.
+    - role: Freelancing
+      date: 2024 - now
+      location: Remote
+      tags: C#
+      description: |
+        + Fix bugs and convert legacy manufacturing company ERP system to modern ASP.NET core
     - company: Chiba Institute of Technology
       link: 'https://www.henkaku.center/en/people/'
       role: Visiting Researcher
