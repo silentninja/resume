@@ -25,9 +25,10 @@ experience:
     - role: Freelancing
       date: 2024 - now
       location: Remote
-      tags: C#
+      tags: ASP.NET core, Java Spring Boot
       description: |
-        + Fix bugs and convert legacy manufacturing company ERP system to modern ASP.NET core
+        + Fix bugs and convert legacy manufacturing company ERP system to modern ASP.NET core.
+        + Extend exiting ERP system with new features using Java Spring Boot.
     - company: Chiba Institute of Technology
       link: 'https://www.henkaku.center/en/people/'
       role: Visiting Researcher
